@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi there, I'm Maryna!
+___
 
-<!--
-**Maryna-Volynets/Maryna-Volynets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✨ Data Analyst in the Tax Service ✨
+___
+📍 Ukraine
 
-Here are some ideas to get you started:
+📧 Email: marina_golovach@ukr.net
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 My LinkedIn [here](https://www.linkedin.com/in/maryna-volynets-2b494a237/)
+
+🔗 My GitHub [here](https://github.com/Maryna-Volynets)
+
+### ✨About Me
+
+I have over 11 years of experience in the Tax Service related to collecting, transforming, organizing, and analyzing data to make informed decisions.
+
+### Skills 🛠️
+
+Excel | Google Spreadsheets | Google Big Query | SQL | PostgreSQL | MySQL | DBeaver | VS Code | RStudio | Tableau | Git | 
+
+### English 
+B1+
+
+### Education 🎓
+
+Masters in Public Finances, National STS University
+
+Masters in Public Administration, Lviv Regional Institute for Public Administration of the National Academy for Public Administration under the President of Ukraine
+
+### Certifications 📜
+
+Coursera: Google Data Analytics Professional Certificate
+
+Prometheus: Basics of Data Analytics (Business Intelligence)
+
+
