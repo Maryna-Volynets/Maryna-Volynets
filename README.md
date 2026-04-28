@@ -9,7 +9,7 @@ ___
 
 🔗 My LinkedIn [here](https://www.linkedin.com/in/maryna-volynets-2b494a237/)
 
-🔗 My Tableau [here]([https://github.com/Maryna-Volynets](https://public.tableau.com/app/profile/maryna.volynets/vizzes))
+🔗 My Tableau [here](https://public.tableau.com/app/profile/maryna.volynets/vizzes)
 
 ### ✨About Me
 
